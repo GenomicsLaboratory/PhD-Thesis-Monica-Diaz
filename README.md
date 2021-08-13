@@ -12,7 +12,7 @@ Mail de contacto: <monica.diaz@pucv.cl>
 ## DIRECTORES DE TESIS Y COMISIÓN EVALUADORA
 
 **Director de tesis**  
-Dr. José Gallardo Matos  
+Dr. José Gallardo Matus  
 <jose.gallardo@pucv.cl>
 
 **Co-director de tesis**  

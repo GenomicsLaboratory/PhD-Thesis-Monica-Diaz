@@ -2,7 +2,8 @@
 POTENCIAL BIOTECNOLÓGICO DE LA PLANTA HALÓFITA Salicornia neei PARA SU USO EN SISTEMAS INTEGRADOS DE ACUICULTURA MARINA EN TIERRA
 
 ## GRADO ACADÉMICO
-Tesis para optar al grado de Doctor en Biotecnología, programa conjunto entre la Pontificia Universidad católica de Valparaíso y la Universidad técnica Federico Santa María.
+Tesis para optar al grado de **Doctor en Biotecnología**.  
+Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la Universidad técnica Federico Santa María.
 
 ## AUTORA
 **Mónica Díaz**

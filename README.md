@@ -6,13 +6,14 @@ Tesis para optar al grado de [Doctor en Biotecnología](http://www.doctoradoenbi
 Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la Universidad técnica Federico Santa María.
 
 ## AUTORA
-**Mónica Díaz**
+**Mónica Rocío de las Mercedes Díaz Silva**
 Mail de contacto: <monica.diaz@pucv.cl>
 
 ## DIRECTORES DE TESIS Y COMISIÓN EVALUADORA
 
 **Director de tesis**  
-Dr. José Gallardo Matos, <jose.gallardo@pucv.cl>
+Dr. José Gallardo Matos  
+<jose.gallardo@pucv.cl>
 
 **Co-director de tesis**  
 

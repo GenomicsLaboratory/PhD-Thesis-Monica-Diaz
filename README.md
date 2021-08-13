@@ -5,6 +5,6 @@ Comisión evaluadora
 Dr. Michael Seeger Pfeiffer 
 email:michael.seeger@usm.cl 
 Dra. Vitalia Henríquez Quesada
-email:vitalia.henriquez @ ucv.cl 
+email:vitalia.henriquez@ucv.cl 
 Dr. Pablo Conejeros Abraham
 

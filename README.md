@@ -6,7 +6,7 @@ Tesis para optar al grado de [Doctor en Biotecnología](http://www.doctoradoenbi
 Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la Universidad técnica Federico Santa María.
 
 ## AUTORA
-**Mónica Rocío de las Mercedes Díaz Silva**
+**Mónica Rocío de las Mercedes Díaz Silva**  
 Mail de contacto: <monica.diaz@pucv.cl>
 
 ## DIRECTORES DE TESIS Y COMISIÓN EVALUADORA

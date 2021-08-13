@@ -1,27 +1,27 @@
-# TÍTULO
+## TÍTULO
 POTENCIAL BIOTECNOLÓGICO DE LA PLANTA HALÓFITA Salicornia neei PARA SU USO EN SISTEMAS INTEGRADOS DE ACUICULTURA MARINA EN TIERRA
 
-# GRADO ACADÉMICO
+## GRADO ACADÉMICO
 Tesis para optar al grado de Doctor en Biotecnología, programa conjunto entre la Pontificia Universidad católica de Valparaíso y la Universidad técnica Federico Santa María.
 
-## Autora
+## AUTORA
 **Mónica Díaz**
 Mail de contacto: <monica.diaz@pucv.cl>
 
 ## DIRECTORES DE TESIS Y COMISIÓN EVALUADORA
 
-**Director de tesis**
+**Director de tesis**  
 Dr. José Gallardo Matos, <jose.gallardo@pucv.cl>
 
-**Co-director de tesis**
+**Co-director de tesis**  
 
 
-**Comisión evaluadora**
-Dr. Michael Seeger Pfeiffer, <michael.seeger@usm.cl> 
-Dra. Vitalia Henríquez Quesada, <vitalia.henriquez@ucv.cl> 
-Dr. Pablo Conejeros Abraham, <pablo.conejeros@uv.cl>
+**Comisión evaluadora**  
+Dr. Michael Seeger Pfeiffer, <michael.seeger@usm.cl>   
+Dra. Vitalia Henríquez Quesada, <vitalia.henriquez@ucv.cl>   
+Dr. Pablo Conejeros Abraham, <pablo.conejeros@uv.cl>  
 
-## RESUMEN
+## RESUMEN  
 
 Lograr sistemas de recirculación para la acuicultura en tierra ambientalmente sostenibles, es posible mediante la implementación de estrategias dirigidas al manejo responsable de los desechos contaminantes. En el caso del manejo de los efluentes, la integración de humedales artificiales plantados con halófitas capaces de crecer en altas concentraciones de salinidad, se ha convertido en una alternativa factible para el tratamiento de las aguas residuales. Salicornia neei es una planta halófita de amplia distribución en Sudamérica que ha sido propuesta como biofiltro de aguas provenientes de la acuicultura debido a su importante valor económico y amplia distribución. Si bien existen estudios realizados en plantas halófitas similares, aún no se conoce si S. neei tiene el potencial necesario para adaptarse con éxito a los sistemas integrados de acuicultura marina en Chile. Por tanto, surgió el interrogante de si S. neei, tiene el potencial necesario para adaptarse con éxito a los sistemas integrados de acuicultura marina. 
 

@@ -7,7 +7,7 @@ Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la 
 
 ## AUTORA
 **Mónica Rocío de las Mercedes Díaz Silva**  
-Bióloga por la Universidad Pedag´gica y Tecnolóica de Colombia-UPTC  
+Bióloga por la Universidad Pedagógica y Tecnológica de Colombia-UPTC  
 **Nacionalidad:** Colombiana  
 **Mail de contacto:** <monica.diaz@pucv.cl>  
 

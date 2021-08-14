@@ -18,7 +18,7 @@ Dr. José Gallardo Matus
 <jose.gallardo@pucv.cl>
 
 **Co-director de tesis**
-Dr. Herman SIlva
+Dr. Herman Silva,
 <hesilva@uchile.cl>
 
 **Comisión evaluadora**  
@@ -40,6 +40,7 @@ Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, Jos
 
 ## PRESENTACIONES A CONGRESO
 
+XXXVIII Congreso de Ciencias del Mar, con presentación de poster y resumén
 
 
 

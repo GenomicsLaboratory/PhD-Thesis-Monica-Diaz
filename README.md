@@ -40,7 +40,7 @@ Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, Jos
 
 ## PRESENTACIONES A CONGRESO
 
-XXXVIII Congreso de Ciencias del Mar, con presentación de poster y resumén
+2007. XXXVIII Congreso de Ciencias del Mar, con presentación de poster y resumén
 
 
 

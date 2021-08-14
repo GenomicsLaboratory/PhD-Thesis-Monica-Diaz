@@ -7,7 +7,7 @@ Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la 
 
 ## AUTORA
 **Mónica Rocío de las Mercedes Díaz Silva**  
-Bióloga por la Universidad de   
+Bióloga por la Universidad Pedag´gica y Tecnolóica de Colombia-UPTC  
 **Nacionalidad:** Colombiana  
 **Mail de contacto:** <monica.diaz@pucv.cl>  
 
@@ -17,8 +17,9 @@ Bióloga por la Universidad de
 Dr. José Gallardo Matus  
 <jose.gallardo@pucv.cl>
 
-**Co-director de tesis**  
-
+**Co-director de tesis**
+Dr. Herman Silva,
+<hesilva@uchile.cl>
 
 **Comisión evaluadora**  
 Dr. Michael Seeger Pfeiffer, <michael.seeger@usm.cl>   
@@ -39,6 +40,7 @@ Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, Jos
 
 ## PRESENTACIONES A CONGRESO
 
+XXXVIII Congreso de Ciencias del Mar, con presentación de poster y resumén
 
 
 

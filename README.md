@@ -17,7 +17,7 @@ Bióloga por la Universidad Pedagógica y Tecnológica de Colombia-UPTC
 Dr. José Gallardo Matus  
 <jose.gallardo@pucv.cl>
 
-**Co-director de tesis**. 
+**Co-director de tesis**.   
 Dr. Herman Silva,
 <hesilva@uchile.cl>
 

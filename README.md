@@ -36,6 +36,8 @@ Para desarrollar estos objetivos se colectaron plantas silvestres en las Salinas
 
 ## PUBLICACIONES ASOCIADAS A LA TESIS
 
+Mónica Díaz-Silva, Jonathan Maldonado, Nicol Delgado, Pamela Veloso, Herman Silva, José A. Gallardo. RNA-Seq analysis and transcriptome assembly of Salicornia neei reveals ammonium detoxification system mediated by glutamine and glutamate synthase and polyamine biosynthesis.
+
 Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, José A. 2020. "Efficiency of Salicornia neei to Treat Aquaculture Effluent from a Hypersaline and Artificial Wetland" Agriculture 10, no. 12: 621. https://doi.org/10.3390/agriculture10120621
 
 ## PRESENTACIONES A CONGRESO

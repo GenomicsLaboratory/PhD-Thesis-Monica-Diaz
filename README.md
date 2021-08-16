@@ -3,7 +3,7 @@ POTENCIAL BIOTECNOLÓGICO DE LA PLANTA HALÓFITA *Salicornia neei* PARA SU USO E
 
 ## GRADO ACADÉMICO
 Tesis para optar al grado de [Doctor en Biotecnología](http://www.doctoradoenbiotecnologia.cl/).  
-Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la Universidad técnica Federico Santa María.
+Programa conjunto entre la Pontificia Universidad Católica de Valparaíso y la Universidad Técnica Federico Santa María.
 
 ## AUTORA
 **Mónica Rocío de las Mercedes Díaz Silva**  
@@ -40,7 +40,7 @@ Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, Jos
 
 ## PRESENTACIONES A CONGRESO
 
-2007. XXXVIII Congreso de Ciencias del Mar, con presentación de poster y resumén
+Mónica Díaz, Pamela Veloso, Jonathan  Maldonado, Herman Silva, José A. Gallardo. 2017. Ensamble de novo y análisis in silico del transcriptoma de la planta halófita *Sarcocornia neei* frente a concentraciones de amonio típicas de un efluente de acuicultura marina. XXXVII Congreso de Ciencias del Mar, 23 al 26 de Mayo de 2017, Valparaíso, CHILE
 
 
 

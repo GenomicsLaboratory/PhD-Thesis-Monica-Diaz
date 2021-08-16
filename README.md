@@ -44,7 +44,10 @@ Diaz, Mónica R.; Araneda, Javier; Osses, Andrea; Orellana, Jaime; Gallardo, Jos
 
 Mónica Díaz-Silva, Jonathan Maldonado, Nicol Delgado, Pamela Veloso, Herman Silva, José A. Gallardo. RNA-Seq analysis of *Salicornia neei* reveals ammonium detoxification system. XVIII Congreso Latinoamericano de Genética, 05 al 08 de octubre de 2021, Valdivia, Chile.
 
-Mónica Díaz, Pamela Veloso, Jonathan  Maldonado, Herman Silva, José A. Gallardo. 2017. Ensamble de novo y análisis in silico del transcriptoma de la planta halófita *Sarcocornia neei* frente a concentraciones de amonio típicas de un efluente de acuicultura marina. XXXVII Congreso de Ciencias del Mar, 23 al 26 de Mayo de 2017, Valparaíso, CHILE
+Mónica Díaz, Pamela Veloso, Jonathan  Maldonado, Herman Silva, José A. Gallardo. 2017. Ensamble de novo y análisis in silico del transcriptoma de la planta halófita *Sarcocornia neei* frente a concentraciones de amonio típicas de un efluente de acuicultura marina. XXXVII Congreso de Ciencias del Mar, 23 al 26 de Mayo de 2017, Valparaíso, CHILE.
+
+## DATOS GENÓMICOS
+Transcriptoma de *Salicornia neei* disponible en NCBI: Bioproyecto [PRJNA554118](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA554118)
 
 
 

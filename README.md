@@ -47,7 +47,7 @@ Mónica Díaz-Silva, Jonathan Maldonado, Nicol Delgado, Pamela Veloso, Herman Si
 Mónica Díaz, Pamela Veloso, Jonathan  Maldonado, Herman Silva, José A. Gallardo. 2017. Ensamble de novo y análisis in silico del transcriptoma de la planta halófita *Sarcocornia neei* frente a concentraciones de amonio típicas de un efluente de acuicultura marina. XXXVII Congreso de Ciencias del Mar, 23 al 26 de Mayo de 2017, Valparaíso, CHILE.
 
 ## DATOS GENÓMICOS
-Transcriptoma de *Salicornia neei* disponible en NCBI: Bioproyecto [PRJNA554118](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA554118)
+Transcriptoma de *Salicornia neei* disponible en NCBI: Bioproyecto [PRJNA554118](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA554118).
 
 
 

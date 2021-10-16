@@ -49,5 +49,10 @@ Mónica Díaz, Pamela Veloso, Jonathan  Maldonado, Herman Silva, José A. Gallar
 ## DATOS GENÓMICOS
 Transcriptoma de *Salicornia neei* disponible en NCBI: Bioproyecto [PRJNA554118](https://www.ncbi.nlm.nih.gov//bioproject/PRJNA554118).
 
+## PREMIOS
+![Premio al mejor poster del Congreso Latinoamericano de Genética, area genética vegetal.](https://user-images.githubusercontent.com/70146916/137583458-cfa8368b-0d53-488c-be2d-0f91194b754d.png)
+
+
+
 
 
